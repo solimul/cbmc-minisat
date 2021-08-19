@@ -1,0 +1,10 @@
+ipasir_signature shadow_ipasir_signature 
+ipasir_init shadow_ipasir_init
+ipasir_release shadow_ipasir_release
+ipasir_add shadow_ipasir_add
+ipasir_assume shadow_ipasir_assume
+ipasir_solve shadow_ipasir_solve
+ipasir_val shadow_ipasir_val
+ipasir_failed shadow_ipasir_failed
+ipasir_set_terminate shadow_ipasir_set_terminate
+ipasir_set_learn shadow_ipasir_set_learn
